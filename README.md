@@ -1,2 +1,2 @@
-# ETUsyudy
+# ETUstudy
 Знакомство с ГитХаб
